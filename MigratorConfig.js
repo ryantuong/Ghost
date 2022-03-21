@@ -12,3 +12,5 @@ module.exports = {
     database: config.get('database'),
     migrationPath: config.get('paths:migrationPath')
 };
+
+/** commit here */
